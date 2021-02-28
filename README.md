@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**noahyoda/noahyoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A bit about me,
 - 🔭 I’m currently working on learning basic Algorithms and Data Structures in college.
 - 🌱 I’m currently learning Java mostly but I'm also looking at JavaScript and JSX in my spare time.

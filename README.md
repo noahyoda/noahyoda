@@ -8,5 +8,4 @@ A bit about me,
 Plateforms,
 - HackerRank: https://www.hackerrank.com/noahjaussi
 - Thingiverse: https://www.thingiverse.com/noahyoda/designs
-- Twitter: https://twitter.com/brainstriike
 -->

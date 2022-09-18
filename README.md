@@ -7,3 +7,4 @@ A bit about me,
 
 Other Plateforms,
 - HackerRank: https://www.hackerrank.com/noahjaussi
+- LinkedIn: https://www.linkedin.com/in/noah-jaussi-678b121ba/

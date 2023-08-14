@@ -1,10 +1,17 @@
-A bit about me,
-- I’m currently working on getting my bachelors in Computer Science at the University of Utah.
-- I’m practicing C/C++ and Networking concepts
-- I'm looking foward to learning more about ML and Neural Networks
-- I’m hoping to collaborate on hackathons and learn more about ML/neural nets and Cybersecurity/Pen-testing
+### Who am I: 
+My name is Noah, I'm a Software/Computer nerd from Hawaii
 
+### What am I doing right now:
+- Finishing my bachelors in Computer Science at the University of Utah.
+- Building my portfolio through personal projects
 
-Other Plateforms,
-- HackerRank: https://www.hackerrank.com/noahjaussi
-- LinkedIn: https://www.linkedin.com/in/noah-jaussi-678b121ba/
+### Currently Learning:
+- React/Web-Dev
+- PyTorch/TensorFlow
+
+### What I know so far:
+- C, C++, C#
+- Python
+- Kotlin/Java
+- Bash
+- Javascript

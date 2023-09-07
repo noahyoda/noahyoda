@@ -15,3 +15,8 @@ My name is Noah, I'm a Software/Computer nerd from Hawaii
 - Kotlin/Java
 - Bash
 - Javascript
+- HTML/CSS
+- SQL
+- glsl (WebGL/OpenGL)
+- R
+- MIPS, x86

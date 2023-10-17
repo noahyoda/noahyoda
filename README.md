@@ -7,7 +7,7 @@ My name is Noah, I'm a Software/Computer nerd from Hawaii
 - Applying to post-graduation jobs
 
 ### Currently Learning:
-- React/Web-Dev ([see my personal website](njaussi.tech))
+- React/Web-Dev ([see my personal website](https://njaussi.tech))
 - PyTorch/TensorFlow
 
 ### What I know so far:

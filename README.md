@@ -1,14 +1,8 @@
 ### Who am I: 
-My name is Noah, I'm a Software/Computer nerd from Hawaii
+A nerd, why do you wanna know??
 
 ### What am I doing right now:
-- Finishing my bachelors in Computer Science at the University of Utah.
-- Building my portfolio through personal projects
-- Applying to post-graduation jobs
-
-### Currently Learning:
-- React/Web-Dev ([see my personal website](https://njaussi.tech))
-- PyTorch/TensorFlow
+- Super cool stuff you wouldn't understand, like flying drones
 
 ### What I know so far:
 - C, C++, C#
@@ -19,5 +13,5 @@ My name is Noah, I'm a Software/Computer nerd from Hawaii
 - HTML/CSS
 - SQL
 - glsl (WebGL/OpenGL)
-- R
+- R (I hate everything about this)
 - MIPS, x86
